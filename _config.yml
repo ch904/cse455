@@ -34,7 +34,7 @@ domain: ch904.github.io
 url: https://ch904.github.io/cse455/
 baseurl: /cse455/
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
