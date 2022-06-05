@@ -1,7 +1,6 @@
 ---
-title: "CSE455"
+title: "I Was Busy Thinkin’ ‘Bout Birds"
 ---
-## I Was Busy Thinkin' 'Bout Birds
 ## Problem Setup
 ## DataSet
 ## Techniques
