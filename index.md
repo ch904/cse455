@@ -1,7 +1,7 @@
 ---
 title: "I Was Busy Thinkin’ ‘Bout Birds"
 ---
-## Link to video: https://youtu.be/GCLo-X8UCGg
+Link to video: https://youtu.be/GCLo-X8UCGg
 ## Problem Setup
 This project created a bird classification model for the Kaggle competition "I Was Busy Thinkin' 'Bout Birds". The goal of the model is to classify the 555 bird species using the dataset that this competition provided.
 ## DataSet
