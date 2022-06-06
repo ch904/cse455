@@ -14,9 +14,9 @@ The model was trained in 25 epochs, 0.01 as the beginning learning rate along wi
 ![image](https://user-images.githubusercontent.com/97132692/172105010-7a0b7424-9c98-4e6d-b85e-16c5121c0f60.png)
 ![image](https://user-images.githubusercontent.com/97132692/172109812-67792018-38e6-4c38-982d-354dc30d1158.png)
 
-##### Final Training Accuracy (epoch 25): 0.785
-##### Final Testing Accuracy (epoch 25): 0.676
-##### Score on Kaggle: 0.824
+#### Final Training Accuracy (epoch 25): 0.785
+#### Final Testing Accuracy (epoch 25): 0.676
+#### Score on Kaggle: 0.824
 
 ## Previous work
 The pre-trained model ResNet101 were used as the model. The majority code used in this project was adopted from the PyTorch tutorial ImageNet and Transfer Learning, and Transfer Learning To Birds that given by Professor Redmon. I modified the data augmentation part to perform different transformation to the images, splitted the dataset to test out the model, re-write the training function to include validation losses, as well as designed training schedules for model. 
